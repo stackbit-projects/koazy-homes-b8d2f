@@ -38,7 +38,7 @@ sections:
     title: Testimonials
     testimonials:
       - author:
-          name: Mohamed Muhuthaar
+          name: Aishath Raaniya
           location: Hulhumalé
         text: >-
           I didn't know the Snipcart guys were into herbs as well! How beautiful
