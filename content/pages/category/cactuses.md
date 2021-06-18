@@ -1,5 +1,5 @@
 ---
-title: Cactuses
+title: SMART LIGHTS
 layout: category
 order: 2
 seo:
