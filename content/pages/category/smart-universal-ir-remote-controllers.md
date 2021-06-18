@@ -1,5 +1,5 @@
 ---
-title: 'Smart universal IR remote controllers (AC, TV, FAN)'
+title: Smart universal IR remote controllers
 order: 1
 seo:
   title: Big plants
