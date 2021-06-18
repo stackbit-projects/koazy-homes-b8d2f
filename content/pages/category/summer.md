@@ -1,5 +1,5 @@
 ---
-title: Summer plants
+title: SMART THERMOSTAT FOR AC
 layout: category
 order: 4
 seo:
