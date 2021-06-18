@@ -1,5 +1,5 @@
 ---
-title: SMART LIGHTS
+title: SMART SECURITY CAMERA AND DOOR LOCK
 order: 2
 seo:
   title: Cactuses
