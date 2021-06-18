@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/thomas-kolnowski-28qIgkH3IKQ-unsplash.jpg
+    background_image: images/hero-background.png
     background_image_opacity: 65
     content: >
       # Smart, intelligent and automated households
