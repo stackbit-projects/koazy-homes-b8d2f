@@ -1,5 +1,5 @@
 ---
-title: SMART SWITCH & PLUG
+title: SMART SWITCH AND PLUG
 layout: category
 order: 3
 seo:
