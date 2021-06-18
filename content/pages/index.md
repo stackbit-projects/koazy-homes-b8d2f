@@ -8,7 +8,7 @@ sections:
     background_image: images/hero-background.png
     background_image_opacity: 65
     content: >
-      # A Smart Home is a Smart Life
+      # Smart Home Solutions for a Smart Life
 
 
       Don't forget to add your Snipcart API key to the site's configuration to
