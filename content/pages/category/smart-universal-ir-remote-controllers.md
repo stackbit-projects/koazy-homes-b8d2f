@@ -1,5 +1,5 @@
 ---
-title: SMART HUBS
+title: 'Smart universal IR remote controllers (AC, TV, FAN)'
 order: 1
 seo:
   title: Big plants
