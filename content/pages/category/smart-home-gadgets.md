@@ -1,5 +1,5 @@
 ---
-title: Smart universal IR remote controllers
+title: Smart Home Gadgets
 order: 1
 seo:
   title: Big plants
